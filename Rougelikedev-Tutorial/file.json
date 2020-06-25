@@ -1,0 +1,17 @@
+{
+  "hero": {
+    "glyph": 57370,
+    "strength": 2.0,
+    "components": {
+      "kind": {
+        "kind_id": "Hero",
+        "test": [ 1, 2, 3 ]
+      }
+    }
+  },
+  "orc": {
+    "glyph": 57369,
+    "strength": 7.5,
+    "velocity": 0.3 
+  } 
+}
